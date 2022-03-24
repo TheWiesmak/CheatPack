@@ -3,6 +3,11 @@
 	"version": "0.1",
 	"manifest_version": 2,
 	"description": "Simple CheatPack for Testportal, Quizizz, Brainly and Librus Synergia.",
+	"applications": {
+		"gecko": {
+			"id": "cheatpack@glitch.me"
+		}
+	},
 	"icons": {
 		"16": "icons/icon16.png",
 		"48": "icons/icon48.png",
